@@ -1,14 +1,54 @@
-# 💫 About Me:
-🌱 I’m currently working on: AI and Cloud Computing projects.<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Machine Learning models and web development projects.<br>🤝 I’m looking for help with: Advanced AI model deployment and optimization.<br>🌱 I’m currently learning: Generative AI and Responsible AI.<br>💬 Ask me about: Machine Learning, AI, Python, and Cybersecurity.<br>⚡ Fun fact: I’m fascinated by how AI is shaping the future of technology.
+# 👋 Hi there, I'm **Gudise Meghana**!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GudiseMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GudiseMeghana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiseMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub profile! I'm a **Computer Science** student passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**. I love exploring cutting-edge technologies and expanding my skill set to create innovative solutions.
 
 ---
+
+## 🌟 **About Me**
+
+- 🎓 **Education**: Pursuing **B.Tech in Computer Science and Engineering (AIML)** at Kakatiya Institute of Technology and Science, Warangal.
+- 💡 **Interests**: Artificial Intelligence, Natural Language Processing, and Web Development.
+- 🌱 **Currently Learning**: Advanced Machine Learning, Cloud Computing, and Full-Stack Development.
+- 🌟 **Fun Fact**: I enjoy diving into tech challenges and discovering creative ways to solve problems.
+
+---
+
+## 🛠 **Skills & Technologies**
+
+### Programming Languages
+- ![Java](https://img.shields.io/badge/Code-Java-%23ED8B00?style=flat-square&logo=java)
+- ![Python](https://img.shields.io/badge/Code-Python-%233776AB?style=flat-square&logo=python)
+- ![C](https://img.shields.io/badge/Code-C-%2300599C?style=flat-square&logo=c)
+- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)
+
+### Web Development
+- ![HTML](https://img.shields.io/badge/Markup-HTML5-%23E34F26?style=flat-square&logo=html5)
+- ![CSS](https://img.shields.io/badge/Style-CSS3-%231572B6?style=flat-square&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)
+- ![PHP](https://img.shields.io/badge/Code-PHP-%23777BB4?style=flat-square&logo=php)
+
+### Tools & Technologies
+- ![Git](https://img.shields.io/badge/Version%20Control-Git-%23F05032?style=flat-square&logo=git)
+- ![MySQL](https://img.shields.io/badge/Database-MySQL-%234479A1?style=flat-square&logo=mysql)
+- ![IBM Cloud](https://img.shields.io/badge/Cloud-IBM%20Cloud-%2300AAFF?style=flat-square&logo=ibmcloud)
+
+---
+
+## 📊 **GitHub Overview**
+
+![Gudise Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GudiseMeghana&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiseMeghana&layout=compact&theme=radical&langs_count=8)
+
+---
+
+## 📫 **Connect with Me**
+
+[![Email](https://img.shields.io/badge/Email-meghnagudise%40gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meghnagudise@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meghana%20Gudise-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-gudise-13ab6b261)
+[![GitHub](https://img.shields.io/badge/GitHub-Gudise%20Meghana-%23181717?style=flat-square&logo=github)](https://github.com/GudiseMeghana)
+
+---
+
+✨ Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect. 😊
 
 
