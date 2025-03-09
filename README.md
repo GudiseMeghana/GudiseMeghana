@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a **Computer Science** student passionate abou
 - ![Java](https://img.shields.io/badge/Code-Java-%23ED8B00?style=flat-square&logo=java)
 - ![Python](https://img.shields.io/badge/Code-Python-%233776AB?style=flat-square&logo=python)
 - ![C](https://img.shields.io/badge/Code-C-%2300599C?style=flat-square&logo=c)
-- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)
 
 ### Web Development
 - ![HTML](https://img.shields.io/badge/Markup-HTML5-%23E34F26?style=flat-square&logo=html5)
