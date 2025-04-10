@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Computer Science** student passionate abou
 
 - 🎓 **Education**: Pursuing **B.Tech in Computer Science and Engineering (AIML)** at Kakatiya Institute of Technology and Science, Warangal.
 - 💡 **Interests**: Artificial Intelligence, Natural Language Processing, and Web Development.
-- 🌱 **Currently Learning**: Advanced Machine Learning, Cloud Computing, and Full-Stack Development.
+- 🌱 **Currently Learning**: Advanced Machine Learning and Full-Stack Development.
 - 🌟 **Fun Fact**: I enjoy diving into tech challenges and discovering creative ways to solve problems.
 
 ---
