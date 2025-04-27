@@ -47,7 +47,8 @@ Welcome to my GitHub profile! I'm a **Computer Science** student passionate abou
 [![GitHub](https://img.shields.io/badge/GitHub-Gudise%20Meghana-%23181717?style=flat-square&logo=github)](https://github.com/GudiseMeghana)
 
 ---
+✨ Thanks for stopping by!
+Feel free to explore my repositories, star the ones you like, and reach out if you’d like to collaborate! 😊
 
-✨ Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect. 😊
-
+🚀 “Learning never exhausts the mind — it fuels it.”
 
