@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm a **Computer Science** student passionate abou
 - ![CSS](https://img.shields.io/badge/Style-CSS3-%231572B6?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript)
 - ![PHP](https://img.shields.io/badge/Code-PHP-%23777BB4?style=flat-square&logo=php)
-- ![React](https://img.shields.io/badge/Framework-React-%2361DAFB?style=flat-square&logo=react)
-- ![Node.js](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=flat-square&logo=node.js)
 
 ### Data Science & Machine Learning
 - ![NumPy](https://img.shields.io/badge/Library-NumPy-%23013243?style=flat-square&logo=numpy)
@@ -39,14 +37,11 @@ Welcome to my GitHub profile! I'm a **Computer Science** student passionate abou
 - ![Git](https://img.shields.io/badge/Version%20Control-Git-%23F05032?style=flat-square&logo=git)
 - ![GitHub](https://img.shields.io/badge/Platform-GitHub-%23181717?style=flat-square&logo=github)
 - ![MySQL](https://img.shields.io/badge/Database-MySQL-%234479A1?style=flat-square&logo=mysql)
-- ![IBM Cloud](https://img.shields.io/badge/Cloud-IBM%20Cloud-%2300AAFF?style=flat-square&logo=ibmcloud)
 - ![AWS](https://img.shields.io/badge/Cloud-AWS-%23FF9900?style=flat-square&logo=amazonaws)
 
 ---
 
 ## 📊 **GitHub Overview**
-
-![Gudise Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GudiseMeghana&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiseMeghana&layout=compact&theme=radical&langs_count=8)
 
 ---
